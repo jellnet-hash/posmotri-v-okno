@@ -31,3 +31,6 @@ git clone https://github.com/ВАШ_ПОЛЬЗОВАТЕЛЬ/ВАШ_РЕПО.git
 Системные требования
 	•	Современный браузер (Chrome, Firefox, Safari)
 	•	Подключение к интернету для получения данных видео
+
+github pages
+https://jellnet-hash.github.io/posmotri-v-okno/
